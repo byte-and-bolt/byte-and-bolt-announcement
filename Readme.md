@@ -72,6 +72,3 @@ This is the official place for the rulebook, announcements and reports. **Anythi
 
 - **prit patel,6355952237
 - **Harsh Shah,7990997485
-- **Instagram:** @ahduni_roboticsclub
-
-*The Event Head's decision is final.*
