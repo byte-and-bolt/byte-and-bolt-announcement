@@ -222,17 +222,7 @@ The Event Head will confirm the exact limits (magnet, weapon speed) before the e
 
 ## 10. Scoring and Final Check
 
-### Before the Final Demo
-The Event Head must see:
 
-- [ ] The robot fully assembled and wiring inspected
-- [ ] Battery and electronics fixed securely
-- [ ] The robot driving in control, tested more than once
-- [ ] Changes written down
-- [ ] Spare parts ready
-- [ ] Driver and pit roles decided
-- [ ] The inspection checklist completed
-- [ ] No safety problem pending
 
 ### Marks
 
@@ -251,4 +241,4 @@ The Event Head will post all updates here: rule changes, announcements, dates, a
 
 ## 12. Agreement
 
-By taking part in Byte and Bolt, every Mentor, Team Leader and Team Member agrees to follow this rulebook. **The Event Head's decision is final.**
+By taking part in Byte and Bolt, every Mentor, Team Leader and Team Member agrees to follow this rulebook. 
